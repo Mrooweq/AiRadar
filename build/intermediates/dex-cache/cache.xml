@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\Samolociki1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="35173f77da2ed655974d530ffda6c0c14e6fc8d3">
+        <dex dex="C:\Users\Lenovo\Samolociki1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_67582d36d52c94bc03e60aa24a68c0c8b6e357b2.jar" />
+    </item>
+
+</items>

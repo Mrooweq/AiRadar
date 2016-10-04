@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AiRadar</string>
+
+    <string name="plane_has_been_detected">planes has been detected</string>
+    <string name="no_planes_detected">No planes detected</string>
+    <string name="more_info">More info</string>
+    <string name="less_info">Less info</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="latitude_hint">Latitude, start with \"-\" if south</string>
+    <string name="longitude_hint">Longitude, start with \"-\" if west</string>
+
+    <string name="inserted_values_arent_correct">Inserted values aren\'t correct</string>
+    <string name="inserted_values_isnt_correct">Inserted value is not correct</string>
+    <string name="max_distance_for_planes">Max distance for planes</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="planes_detecting">Planes detecting, please wait...</string>
+    <string name="internet_connection_is_necessary">Internet connection is necessary for the app</string>
+    <string name="set_position">Set position</string>
+    <string name="set_max_distance">Set max distance of scanning planes</string>
+    <string name="start_detecting">Start detecting</string>
+
+    <string name="next">Next</string>
+
+</resources>

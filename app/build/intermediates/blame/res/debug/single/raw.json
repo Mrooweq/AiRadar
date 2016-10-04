@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Samolociki1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\callsignals.txt",
+        "source": "C:\\Users\\Lenovo\\Samolociki1\\app\\src\\main\\res\\raw\\callsignals.txt"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Samolociki1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\airports.txt",
+        "source": "C:\\Users\\Lenovo\\Samolociki1\\app\\src\\main\\res\\raw\\airports.txt"
+    }
+]

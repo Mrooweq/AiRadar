@@ -1,0 +1,12 @@
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\CameraScreen$3$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\R$styleable$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\R$style$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\CustomDialog$4$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\CustomDialog$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\MainScreen$1$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\R$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\CustomDialog$2$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\MainScreen$1$1$1$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\domain\CameraScreen$5$override.class
+CHANGED,C:\Users\Lenovo\Samolociki1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\airadar\R$string$override.class
